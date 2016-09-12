@@ -1,6 +1,7 @@
 <?php
 echo date('h:i:s') . "<br>";
 
+
 //sleep for 4 seconds
 sleep(4);
 
