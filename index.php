@@ -1,8 +1,8 @@
 <?php
 echo date('h:i:s') . "<br>";
 
-//sleep for 5 seconds
-sleep(5);
+//sleep for 10 seconds // for branch 1
+sleep(10);
 
 //start again
 echo date('h:i:s');
